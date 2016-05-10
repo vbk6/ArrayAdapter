@@ -14,6 +14,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 /*Static array adapter.
 *simply display static values on a listview
+* Author Vishnu.bk
  */
 public class MainActivity extends AppCompatActivity {
     ListView itemListView;
